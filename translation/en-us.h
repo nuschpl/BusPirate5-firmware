@@ -106,6 +106,9 @@ static char const * const en_us[]={
 	[T_UART_CLOSE]="UART CLOSE",
 	[T_UART_NO_DATA_READ]="No data to read",
 	[T_UART_NO_DATA_TIMEOUT]="Data read timeout",
+
+	[T_HELP_UART_GPS]="NMEA GPS decoder",
+	[T_HELP_UART_BRIDGE]="UART BRIDGE mode",
     //I2C
 	[T_HWI2C_SPEED_MENU]="I2C speed",
 	[T_HWI2C_SPEED_MENU_1]="1kHz to 1000kHz",
